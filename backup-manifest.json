@@ -1,0 +1,239 @@
+{
+  "root": "D:\\KTY-1.0",
+  "date": "2026-11-02",
+  "files": [
+    {
+      "path": ".vscode\\settings.json",
+      "size": 68,
+      "mtime_ns": 1791287952251608700,
+      "sha256": "b3f38d5469db454a51c0c705ae9160a4e133df1f23c19f7086cce7169a544aa9",
+      "crc32": "BBF39A46"
+    },
+    {
+      "path": "README.md",
+      "size": 25543,
+      "mtime_ns": 1791357416938833200,
+      "sha256": "c6327f6efefabdba735abd35bcc3d6b25d8653308e49bded03cfa8dcd339f071",
+      "crc32": "7FACFF70"
+    },
+    {
+      "path": "__pycache__\\config.cpython-312.pyc",
+      "size": 1464,
+      "mtime_ns": 1791529522917025000,
+      "sha256": "41fe26e3eee77cb7398469178dc9233592c55fc226b4ffdfd621a878fbdc9bb8",
+      "crc32": "6A16BD54"
+    },
+    {
+      "path": "__pycache__\\config.cpython-314.pyc",
+      "size": 1482,
+      "mtime_ns": 1793094499656827900,
+      "sha256": "ae14b1a0d0e72f38e29409f0f432d297898c00dcb3343edeaf94a4d1bf99f94b",
+      "crc32": "2C3E3DAC"
+    },
+    {
+      "path": "__pycache__\\generate.cpython-312.pyc",
+      "size": 19474,
+      "mtime_ns": 1791299112693071200,
+      "sha256": "076667c5bfb85b3885b50e269ad19e483a5f0c221a6dcc2ed1ecf43f1cc36603",
+      "crc32": "FCA2EDE1"
+    },
+    {
+      "path": "__pycache__\\model.cpython-312.pyc",
+      "size": 12574,
+      "mtime_ns": 1791299103427583500,
+      "sha256": "f64e5a7215ddda7ffb606c00d5f1086cc18f9b02ac0728e0e752668ff6cd7d42",
+      "crc32": "F44E306D"
+    },
+    {
+      "path": "__pycache__\\model.cpython-314.pyc",
+      "size": 13494,
+      "mtime_ns": 1793094499662487200,
+      "sha256": "bbadbcbf82bbacf26d20e5b09ccf16bc2313d64a5f17958d59704cdb7be69d84",
+      "crc32": "5B7F6694"
+    },
+    {
+      "path": "__pycache__\\tokenizer.cpython-312.pyc",
+      "size": 959,
+      "mtime_ns": 1792399489573721700,
+      "sha256": "1d08a9eed36e6c46c26580653a054122bf322816463dd4ee31d42dd769a1ae3a",
+      "crc32": "3B897E89"
+    },
+    {
+      "path": "__pycache__\\tokenizer.cpython-314.pyc",
+      "size": 1068,
+      "mtime_ns": 1793094499662487200,
+      "sha256": "d22bc0c67dc3406ab0b9698615b9b0b247cedb959bd4d333d5149f9675829a41",
+      "crc32": "78DD58A4"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-interrupted-step008771.pt",
+      "size": 600821909,
+      "mtime_ns": 1791354730622618700,
+      "sha256": "6cb78e99ddc3b97187d91cd7d39e65b31ed7587b8ed6869d5c3434ce6a02e029",
+      "crc32": "FCB6DD5A"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-interrupted-step008806.pt",
+      "size": 600821845,
+      "mtime_ns": 1791399354843834900,
+      "sha256": "d9c7a5f46854bd268253562bf2302e63dd9bb9714b3269eee1e2c307853c1aca",
+      "crc32": "DA8CFE7F"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-interrupted-step009143.pt",
+      "size": 600821973,
+      "mtime_ns": 1791402593520376200,
+      "sha256": "de19457a06ba738706de72fc25cde2d9f5da7a6b7bfdb675a2add71cd2836c94",
+      "crc32": "6F42D51C"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-interrupted-step010348.pt",
+      "size": 600821973,
+      "mtime_ns": 1791457884523091600,
+      "sha256": "59bce6d5aadc818269b1fd3a469545c976590306934b315cc8c2eba7d94e69b4",
+      "crc32": "4FA72F78"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-interrupted-step010932.pt",
+      "size": 600821973,
+      "mtime_ns": 1791532193710779800,
+      "sha256": "e5cfe51bd691711916dc4e772efa3ce274c12a0cef328070ea773e2d8e21189c",
+      "crc32": "3C0A519D"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-interrupted-step014023.pt",
+      "size": 600821973,
+      "mtime_ns": 1791830854169708000,
+      "sha256": "efaebc8d6b305855732c74b0ef212c4d734153f7759fa136b056a8d6e48db15b",
+      "crc32": "49B5320A"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-step010000.pt",
+      "size": 600821973,
+      "mtime_ns": 1791454989433244300,
+      "sha256": "fd14d7e3f5e4b54024bc838226ed95f320e3db4337049b382cfa6443835d5152",
+      "crc32": "D1DF1F54"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-step012000.pt",
+      "size": 600821973,
+      "mtime_ns": 1791818906533821300,
+      "sha256": "b55a36a561042bb7b5d7876ea1478a12695752099aac73229f81a93f0a48ac8f",
+      "crc32": "FB9D3B91"
+    },
+    {
+      "path": "checkpoints\\kty-1.0-v4-50m-step014000.pt",
+      "size": 600821973,
+      "mtime_ns": 1791830702774014000,
+      "sha256": "d3a49dfc6509de59a1486753eb8d14928242d89107b373c99b294b4e05d21b64",
+      "crc32": "3FFC6016"
+    },
+    {
+      "path": "config.py",
+      "size": 1008,
+      "mtime_ns": 1791461229399269600,
+      "sha256": "86f5d5adb0f237ea4281b46f1f8dbf0f542953c3d8ee75b7d6db29008fc95da5",
+      "crc32": "80B63437"
+    },
+    {
+      "path": "data\\kty_chat.jsonl",
+      "size": 235980,
+      "mtime_ns": 1791461225381431300,
+      "sha256": "790aeb949ddad1eef58c6ace4e10264e4fe8ac9b636117ac733be09c14c727bc",
+      "crc32": "5AF8DBF1"
+    },
+    {
+      "path": "data\\matematik.jsonl",
+      "size": 1787075,
+      "mtime_ns": 1791297322450233600,
+      "sha256": "6646aee1610d04d3ceeda5bbf97eda5f94e20886f948ff85546163aff16492fc",
+      "crc32": "C9D5A9B3"
+    },
+    {
+      "path": "data\\python.jsonl",
+      "size": 2817257,
+      "mtime_ns": 1791298324361599600,
+      "sha256": "a5c6c2530857cea92b738e41c2415222fe11dcb351b2da5f83be7fa375502971",
+      "crc32": "6FD593BE"
+    },
+    {
+      "path": "data\\reasoning.jsonl",
+      "size": 2620907,
+      "mtime_ns": 1791298231679644700,
+      "sha256": "ee3a51d72ee0730d4d4c23c13af356c5c3f92eda719c136cdc320a414906860d",
+      "crc32": "0A6787F1"
+    },
+    {
+      "path": "data\\sertlik.jsonl",
+      "size": 560839,
+      "mtime_ns": 1791294163191151500,
+      "sha256": "93a49a5fb4ddb1dd9022a306a809df66df283d1d0748f4ae42b1f8b3b6c6140f",
+      "crc32": "A014F5B3"
+    },
+    {
+      "path": "data\\sohbet.jsonl",
+      "size": 443168,
+      "mtime_ns": 1791297562980053700,
+      "sha256": "26d104939c5bcece906385e21d58f07df91fb022b5a167f5b0e2ab09aef46684",
+      "crc32": "65002489"
+    },
+    {
+      "path": "data\\train.txt",
+      "size": 32033,
+      "mtime_ns": 1791816879044248700,
+      "sha256": "afa89e2ff105fc3c0ca0c239aa989593e7f64be81c95e008106ea6c28d8070c8",
+      "crc32": "8A2DD4E9"
+    },
+    {
+      "path": "deneme_model.py",
+      "size": 4227,
+      "mtime_ns": 1791450130037948100,
+      "sha256": "c6e078848e5ba2af93ad9dd3ce395a4ae789e45df542d970641d730d200341bb",
+      "crc32": "2BD992E6"
+    },
+    {
+      "path": "generate.py",
+      "size": 13593,
+      "mtime_ns": 1791298729588084900,
+      "sha256": "a56b0f0f181cbefc5a8fc9e2364b66d13ed19a852b6b2481714964cc41686c66",
+      "crc32": "9B86BC21"
+    },
+    {
+      "path": "model.py",
+      "size": 7053,
+      "mtime_ns": 1791298729586639300,
+      "sha256": "1a8308a1130a250ab2991c0743d03f400745ea439db57ddc70353b82ec669c55",
+      "crc32": "4A8E2922"
+    },
+    {
+      "path": "tokenizer.py",
+      "size": 327,
+      "mtime_ns": 1792399357617710600,
+      "sha256": "52c9ea78834cc0bf0117313ac713fb7c0624c93db599ed7b417b7f8f9ba4113c",
+      "crc32": "D872D8AA"
+    },
+    {
+      "path": "train.py",
+      "size": 30330,
+      "mtime_ns": 1791298729588084900,
+      "sha256": "7ecbe4fb0691d14a77950e4a5aaec3cae925dee48af23631c776e68cfb55701f",
+      "crc32": "FFD66C7E"
+    },
+    {
+      "path": "training-20261009-100521.err.log",
+      "size": 0,
+      "mtime_ns": 1791529521373180600,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "crc32": "00000000"
+    },
+    {
+      "path": "training-20261009-100521.log",
+      "size": 4703,
+      "mtime_ns": 1791532193712785800,
+      "sha256": "328ffa39502018d030897130d109c57bcb492a76d8618e05e83e00d9f1c81258",
+      "crc32": "0B8C9A11"
+    }
+  ],
+  "empty_directories": [],
+  "links": []
+}
