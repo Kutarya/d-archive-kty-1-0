@@ -2,7 +2,7 @@
 
 2 Kasım 2026 tarihinde `D:\KTY-1.0` klasöründen alındı.
 
-Bu özel depo, kaynakların incelenebilir anlık kopyasını içerir. Tam dosya yedeği (Git geçmişleri, derleme paketleri, model dosyaları, yerel ayarlar, imzalama anahtarları ve bağımlılıklar dahil) **Releases / backup-2026-11-02** altında şifreli 7-Zip arşivleri olarak saklanır. Kaynak görünümünde yer almayan dosyalar tam yedekte bulunur.
+Bu depo, kaynakların incelenebilir anlık kopyasını içerir. Tam dosya yedeği (Git geçmişleri, derleme paketleri, model dosyaları, yerel ayarlar, imzalama anahtarları ve bağımlılıklar dahil) **Releases / backup-2026-11-02** altında şifreli 7-Zip arşivleri olarak saklanır. Kaynak görünümünde yer almayan dosyalar tam yedekte bulunur.
 
 - Dosya sayısı: 33
 - Ham veri: 5,416,032,191 bayt
